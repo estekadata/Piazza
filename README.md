@@ -137,10 +137,16 @@ Cette évolution montre une amélioration constante de la précision et de l’e
 
 ---
 
+## 🔜 **Fonctionnement**
+![image](https://github.com/user-attachments/assets/6bad5cc7-41ce-41ef-bf20-2fae1cc99d50)
+
+Aujourd'hui l'application est en apprentissage ! 
+
+
 ## 🔜 **Prochaine Étape**
-- **Déploiement sur un serveur cloud** pour un accès centralisé.  
-- **Ajout d’une segmentation sémantique** pour classer les objets détectés.  
-- **Optimisation de l’interface** pour une **expérience utilisateur encore plus fluide**.  
+- **Venir une demi journée sur place** juste pour voir comment les equipes fonctionne aujourd'hui concretement.  
+- **Réunion** pour liée les outils.  
+- **Optimisation du modele** pour un **avant et apres**.  
 
 🚀 **L’IA continue d’apprendre et de s’améliorer à chaque correction !**  
 
