@@ -1,7 +1,3 @@
-Bien sûr ! Voici le **README** complet avec toutes les améliorations, incluant les **explications détaillées sur le changement de modèle**, les **graphes statistiques montrant les performances**, et la **validation avec le Bon de Livraison (BL)**.
-
----
-
 # 🚀 **Détection et Annotation d'Articles avec IA**
 ## 📌 Présentation du Projet
 Ce projet vise à **automatiser la détection et l'annotation d'articles sur des images** en utilisant l'intelligence artificielle. L'objectif est d'améliorer **l'efficacité et la fiabilité du traitement des images** en détectant automatiquement les objets, en permettant leur validation, et en **apprenant en continu** grâce aux corrections des utilisateurs.
@@ -148,6 +144,4 @@ Cette évolution montre une amélioration constante de la précision et de l’e
 
 🚀 **L’IA continue d’apprendre et de s’améliorer à chaque correction !**  
 
----
 
-Tu peux maintenant **présenter ce README à ton client** en lui montrant **l’évolution du projet, les résultats obtenus, et la validation avec le BL** ! Si tu veux des modifications ou plus d’explications, dis-moi ! 🎯📊🔥
