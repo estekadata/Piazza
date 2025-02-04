@@ -144,7 +144,7 @@ Aujourd'hui l'application est en apprentissage !
 
 
 ## 🔜 **Prochaine Étape**
-- **Venir une demi journée sur place** juste pour voir comment les equipes fonctionne aujourd'hui concretement.  
+- **Venir une  journée sur place**  pour voir comment les equipes fonctionnent + installation de l'outil directement chez vous.  
 - **Réunion** pour liée les outils.  
 - **Optimisation du modele** pour un **avant et apres**.  
 
