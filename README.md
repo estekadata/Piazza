@@ -1,4 +1,9 @@
 # 🚀 **Détection et Annotation d'Articles avec IA**
+
+![image](https://github.com/user-attachments/assets/eec3d30f-1aa3-4d05-8eed-6d834ab996e9)
+
+
+
 ## 📌 Présentation du Projet
 Ce projet vise à **automatiser la détection et l'annotation d'articles sur des images** en utilisant l'intelligence artificielle. L'objectif est d'améliorer **l'efficacité et la fiabilité du traitement des images** en détectant automatiquement les objets, en permettant leur validation, et en **apprenant en continu** grâce aux corrections des utilisateurs.
 
